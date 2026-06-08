@@ -1,9 +1,0 @@
-# ignore cash and workspace settings
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache
-.obsidian/core-plugins.json
-
-# Ignore OS system files
-.DS_Store
-Thumbs.db
